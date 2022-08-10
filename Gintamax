@@ -1,0 +1,7 @@
+echo "# Gintamax" >> README.md
+git init
+git add README.md
+git commit -m "Gintamax"
+git branch -M main
+git remote add origin https://github.com/Gintamax/Gintamax.git
+git push -u origin main
